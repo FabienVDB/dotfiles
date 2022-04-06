@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = fabvdb@hotmail.com
+	name = Fabien VAN DEN BERG
